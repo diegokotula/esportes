@@ -1,16 +1,16 @@
 
 .titulo-principal{
-font-size: 40px;
+font-size: 80px;
 color: #172ad7;
 text-align: center;
 }
 .inicio{
     text-align: center;
-    width: 30px;
-    height: 60px;
+    width: 10px;
+    height: 40px;
 }
 .sub-titulo{
-    font-size: 300px;
+    font-size: 30px;
     color:azure;
     text-align: center;
 } 
