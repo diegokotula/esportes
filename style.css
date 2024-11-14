@@ -28,3 +28,17 @@ text-align: center;
     justify-content: space-around;
     gap: 20px;
 }
+.campo-busca{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0 auto;
+}
+ #campo-busca{
+    width: 200px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+ }
